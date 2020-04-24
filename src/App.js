@@ -1,14 +1,18 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Provider } from 'react-redux';
+
+import store from './store'
+import NewPost from './components/new-post/new-post';
+import PostList from './components/post-list/post-list';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-       STARTING POSTING APP
-      </header>
-    </div>
+    <Provider store={store}>
+      <div style={{display: 'flex', flexDirection:'horizontal'}}>
+        <NewPost />
+        <PostList />        
+      </div>
+    </Provider>
   );
 }
 
