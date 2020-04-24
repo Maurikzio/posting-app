@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/posting-app/static/css/main.d1b05096.chunk.css",
-    "main.js": "/posting-app/static/js/main.4d828280.chunk.js",
-    "main.js.map": "/posting-app/static/js/main.4d828280.chunk.js.map",
+    "main.css": "/posting-app/static/css/main.fcb21fca.chunk.css",
+    "main.js": "/posting-app/static/js/main.541f86e5.chunk.js",
+    "main.js.map": "/posting-app/static/js/main.541f86e5.chunk.js.map",
     "runtime-main.js": "/posting-app/static/js/runtime-main.8134fc55.js",
     "runtime-main.js.map": "/posting-app/static/js/runtime-main.8134fc55.js.map",
-    "static/js/2.cdd3bcb3.chunk.js": "/posting-app/static/js/2.cdd3bcb3.chunk.js",
-    "static/js/2.cdd3bcb3.chunk.js.map": "/posting-app/static/js/2.cdd3bcb3.chunk.js.map",
+    "static/js/2.854d3caf.chunk.js": "/posting-app/static/js/2.854d3caf.chunk.js",
+    "static/js/2.854d3caf.chunk.js.map": "/posting-app/static/js/2.854d3caf.chunk.js.map",
     "index.html": "/posting-app/index.html",
-    "precache-manifest.5cc5b6c2384c6ad1a7aca7d2ff73655a.js": "/posting-app/precache-manifest.5cc5b6c2384c6ad1a7aca7d2ff73655a.js",
+    "precache-manifest.f916e95e99e2c0c0c2f56bedfa631847.js": "/posting-app/precache-manifest.f916e95e99e2c0c0c2f56bedfa631847.js",
     "service-worker.js": "/posting-app/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/posting-app/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.cdd3bcb3.chunk.js.LICENSE.txt": "/posting-app/static/js/2.cdd3bcb3.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/posting-app/static/media/logo.5d5d9eef.svg"
+    "static/css/main.fcb21fca.chunk.css.map": "/posting-app/static/css/main.fcb21fca.chunk.css.map",
+    "static/js/2.854d3caf.chunk.js.LICENSE.txt": "/posting-app/static/js/2.854d3caf.chunk.js.LICENSE.txt",
+    "static/media/AnakinSkywalker.png": "/posting-app/static/media/AnakinSkywalker.43608ebb.png",
+    "static/media/HanSolo.png": "/posting-app/static/media/HanSolo.0966b1f7.png",
+    "static/media/LeiaOrgana.png": "/posting-app/static/media/LeiaOrgana.1196af32.png",
+    "static/media/ReySkywalker.png": "/posting-app/static/media/ReySkywalker.4d9df190.png",
+    "static/media/Yoda.png": "/posting-app/static/media/Yoda.dc98a3af.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8134fc55.js",
-    "static/js/2.cdd3bcb3.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.4d828280.chunk.js"
+    "static/js/2.854d3caf.chunk.js",
+    "static/css/main.fcb21fca.chunk.css",
+    "static/js/main.541f86e5.chunk.js"
   ]
 }
